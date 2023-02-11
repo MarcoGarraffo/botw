@@ -1,7 +1,0 @@
-!io
-version: 0
-type: xml
-param_root: !list
-  objects:
-    AirWall: !obj {Layer: !str32 Ground}
-  lists: {}

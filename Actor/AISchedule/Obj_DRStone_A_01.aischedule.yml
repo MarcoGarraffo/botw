@@ -1,5 +1,0 @@
-DefaultTimeline:
-  Nodes: []
-  TriggerEvents:
-  - {EvflEntry: Talk, IsPauseOtherActors: false, Trigger: Talk}
-DisplayDistanceMode: None
